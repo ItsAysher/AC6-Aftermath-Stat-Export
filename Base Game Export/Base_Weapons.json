@@ -1,0 +1,810 @@
+{
+  "Name": "Base_Weapons",
+  "FmgWrappers": [
+    {
+      "Name": "\u6B66\u5668\u540D.fmg",
+      "ID": 11,
+      "Fmg": {
+        "Name": "\u6B66\u5668\u540D.fmg",
+        "Entries": [
+          {
+            "ID": 10000000,
+            "Text": "MA-J-200 RANSETSU-RF"
+          },
+          {
+            "ID": 10000100,
+            "Text": "LR-036 CURTIS"
+          },
+          {
+            "ID": 10000200,
+            "Text": "LR-037 HARRIS"
+          },
+          {
+            "ID": 10010000,
+            "Text": "MA-J-201 RANSETSU-AR"
+          },
+          {
+            "ID": 10010100,
+            "Text": "RF-024 TURNER"
+          },
+          {
+            "ID": 10010200,
+            "Text": "RF-025 SCUDDER"
+          },
+          {
+            "ID": 10020000,
+            "Text": "MA-E-210 ETSUJIN"
+          },
+          {
+            "ID": 10020100,
+            "Text": "MG-014 LUDLOW"
+          },
+          {
+            "ID": 10020200,
+            "Text": "DF-MG-02 CHANG-CHEN"
+          },
+          {
+            "ID": 10020300,
+            "Text": "WR-0555 ATTACHE"
+          },
+          {
+            "ID": 10030000,
+            "Text": "DF-GA-08 HU-BEN"
+          },
+          {
+            "ID": 10040000,
+            "Text": "LITTLE GEM"
+          },
+          {
+            "ID": 10040100,
+            "Text": "MAJESTIC"
+          },
+          {
+            "ID": 10040200,
+            "Text": "DF-BA-06 XUAN-GE"
+          },
+          {
+            "ID": 10050000,
+            "Text": "WR-0777 SWEET SIXTEEN"
+          },
+          {
+            "ID": 10050100,
+            "Text": "SG-026 HALDEMAN"
+          },
+          {
+            "ID": 10050200,
+            "Text": "SG-027 ZIMMERMAN"
+          },
+          {
+            "ID": 10060000,
+            "Text": "DF-GR-07 GOU-CHEN"
+          },
+          {
+            "ID": 10060100,
+            "Text": "DIZZY"
+          },
+          {
+            "ID": 10070000,
+            "Text": "EL-PW-00 VIENTO"
+          },
+          {
+            "ID": 10070100,
+            "Text": "MA-E-211 SAMPU"
+          },
+          {
+            "ID": 10070200,
+            "Text": "HG-003 COQUILLETT"
+          },
+          {
+            "ID": 10070300,
+            "Text": "HG-004 DUCKETT"
+          },
+          {
+            "ID": 10080000,
+            "Text": "MA-T-223 KYORIKU"
+          },
+          {
+            "ID": 10080100,
+            "Text": "MA-T-222 KYORAI"
+          },
+          {
+            "ID": 10080200,
+            "Text": "WS-1200 THERAPIST"
+          },
+          {
+            "ID": 10090000,
+            "Text": "HML-G2/P19MLT-04"
+          },
+          {
+            "ID": 10090100,
+            "Text": "HML-G3/P08SPL-06"
+          },
+          {
+            "ID": 10100000,
+            "Text": "IRIDIUM"
+          },
+          {
+            "ID": 10110000,
+            "Text": "VP-66LH"
+          },
+          {
+            "ID": 10110100,
+            "Text": "VP-66LR"
+          },
+          {
+            "ID": 10110200,
+            "Text": "IB-C03W1: WLT 011"
+          },
+          {
+            "ID": 10110300,
+            "Text": "VE-66LRA"
+          },
+          {
+            "ID": 10120000,
+            "Text": "Vvc-760PR"
+          },
+          {
+            "ID": 10120100,
+            "Text": "44-142 KRSV"
+          },
+          {
+            "ID": 10130000,
+            "Text": "HI-16: GU-Q1"
+          },
+          {
+            "ID": 10130100,
+            "Text": "HI-18: GU-A2"
+          },
+          {
+            "ID": 10140000,
+            "Text": "VE-66LRB"
+          },
+          {
+            "ID": 10150000,
+            "Text": "WUERGER/66E"
+          },
+          {
+            "ID": 10150100,
+            "Text": "VP-66LS"
+          },
+          {
+            "ID": 10150200,
+            "Text": "IA-C01W1: NEBULA"
+          },
+          {
+            "ID": 10150300,
+            "Text": "IA-C01W6: NB-REDSHIFT"
+          },
+          {
+            "ID": 10160000,
+            "Text": "WB-0000 BAD COOK"
+          },
+          {
+            "ID": 10170000,
+            "Text": "44-141 JVLN ALPHA"
+          },
+          {
+            "ID": 10180000,
+            "Text": "VP-66EG"
+          },
+          {
+            "ID": 10190000,
+            "Text": "WS-5000 APERITIF"
+          },
+          {
+            "ID": 10300000,
+            "Text": "PFAU/66D"
+          },
+          {
+            "ID": 15000000,
+            "Text": "MA-J-200 RANSETSU-RF"
+          },
+          {
+            "ID": 15000100,
+            "Text": "LR-036 CURTIS"
+          },
+          {
+            "ID": 15000200,
+            "Text": "LR-037 HARRIS"
+          },
+          {
+            "ID": 15010000,
+            "Text": "MA-J-201 RANSETSU-AR"
+          },
+          {
+            "ID": 15010100,
+            "Text": "RF-024 TURNER"
+          },
+          {
+            "ID": 15010200,
+            "Text": "RF-025 SCUDDER"
+          },
+          {
+            "ID": 15020000,
+            "Text": "MA-E-210 ETSUJIN"
+          },
+          {
+            "ID": 15020100,
+            "Text": "MG-014 LUDLOW"
+          },
+          {
+            "ID": 15020200,
+            "Text": "DF-MG-02 CHANG-CHEN"
+          },
+          {
+            "ID": 15020300,
+            "Text": "WR-0555 ATTACHE"
+          },
+          {
+            "ID": 15030000,
+            "Text": "DF-GA-08 HU-BEN"
+          },
+          {
+            "ID": 15040000,
+            "Text": "LITTLE GEM"
+          },
+          {
+            "ID": 15040100,
+            "Text": "MAJESTIC"
+          },
+          {
+            "ID": 15040200,
+            "Text": "DF-BA-06 XUAN-GE"
+          },
+          {
+            "ID": 15050000,
+            "Text": "WR-0777 SWEET SIXTEEN"
+          },
+          {
+            "ID": 15050100,
+            "Text": "SG-026 HALDEMAN"
+          },
+          {
+            "ID": 15050200,
+            "Text": "SG-027 ZIMMERMAN"
+          },
+          {
+            "ID": 15060000,
+            "Text": "DF-GR-07 GOU-CHEN"
+          },
+          {
+            "ID": 15060100,
+            "Text": "DIZZY"
+          },
+          {
+            "ID": 15070000,
+            "Text": "EL-PW-00 VIENTO"
+          },
+          {
+            "ID": 15070100,
+            "Text": "MA-E-211 SAMPU"
+          },
+          {
+            "ID": 15070200,
+            "Text": "HG-003 COQUILLETT"
+          },
+          {
+            "ID": 15070300,
+            "Text": "HG-004 DUCKETT"
+          },
+          {
+            "ID": 15080000,
+            "Text": "MA-T-223 KYORIKU"
+          },
+          {
+            "ID": 15080100,
+            "Text": "MA-T-222 KYORAI"
+          },
+          {
+            "ID": 15080200,
+            "Text": "WS-1200 THERAPIST"
+          },
+          {
+            "ID": 15090000,
+            "Text": "HML-G2/P19MLT-04"
+          },
+          {
+            "ID": 15090100,
+            "Text": "HML-G3/P08SPL-06"
+          },
+          {
+            "ID": 15100000,
+            "Text": "IRIDIUM"
+          },
+          {
+            "ID": 15110000,
+            "Text": "VP-66LH"
+          },
+          {
+            "ID": 15110100,
+            "Text": "VP-66LR"
+          },
+          {
+            "ID": 15110200,
+            "Text": "IB-C03W1: WLT 011"
+          },
+          {
+            "ID": 15110300,
+            "Text": "VE-66LRA"
+          },
+          {
+            "ID": 15120000,
+            "Text": "Vvc-760PR"
+          },
+          {
+            "ID": 15120100,
+            "Text": "44-142 KRSV"
+          },
+          {
+            "ID": 15130000,
+            "Text": "HI-16: GU-Q1"
+          },
+          {
+            "ID": 15130100,
+            "Text": "HI-18: GU-A2"
+          },
+          {
+            "ID": 15140000,
+            "Text": "VE-66LRB"
+          },
+          {
+            "ID": 15150000,
+            "Text": "WUERGER/66E"
+          },
+          {
+            "ID": 15150100,
+            "Text": "VP-66LS"
+          },
+          {
+            "ID": 15150200,
+            "Text": "IA-C01W1: NEBULA"
+          },
+          {
+            "ID": 15150300,
+            "Text": "IA-C01W6: NB-REDSHIFT"
+          },
+          {
+            "ID": 15160000,
+            "Text": "WB-0000 BAD COOK"
+          },
+          {
+            "ID": 15170000,
+            "Text": "44-141 JVLN ALPHA"
+          },
+          {
+            "ID": 15180000,
+            "Text": "VP-66EG"
+          },
+          {
+            "ID": 15190000,
+            "Text": "WS-5000 APERITIF"
+          },
+          {
+            "ID": 15300000,
+            "Text": "PFAU/66D"
+          },
+          {
+            "ID": 20000100,
+            "Text": "IB-C03W2: WLT 101"
+          },
+          {
+            "ID": 20000200,
+            "Text": "IA-C01W2: MOONLIGHT"
+          },
+          {
+            "ID": 20000300,
+            "Text": "IA-C01W7: ML-REDSHIFT"
+          },
+          {
+            "ID": 20010000,
+            "Text": "HI-32: BU-TT/A"
+          },
+          {
+            "ID": 20020000,
+            "Text": "Vvc-770LB"
+          },
+          {
+            "ID": 20030000,
+            "Text": "Vvc-774LS"
+          },
+          {
+            "ID": 20040000,
+            "Text": "VP-67LD"
+          },
+          {
+            "ID": 20050000,
+            "Text": "VE-67LLA"
+          },
+          {
+            "ID": 20060000,
+            "Text": "WB-0010 DOUBLE TROUBLE"
+          },
+          {
+            "ID": 20070000,
+            "Text": "44-143 HMMR"
+          },
+          {
+            "ID": 20080000,
+            "Text": "PB-033M ASHMEAD"
+          },
+          {
+            "ID": 20090000,
+            "Text": "VP-67EB"
+          },
+          {
+            "ID": 20100000,
+            "Text": "DF-ET-09 TAI-YANG-SHOU"
+          },
+          {
+            "ID": 25000000,
+            "Text": "VP-61PB"
+          },
+          {
+            "ID": 25000100,
+            "Text": "SI-24: SU-Q5"
+          },
+          {
+            "ID": 25010000,
+            "Text": "VP-61PS"
+          },
+          {
+            "ID": 25010100,
+            "Text": "SI-27: SU-R8"
+          },
+          {
+            "ID": 25010200,
+            "Text": "SI-29: SU-TT/C"
+          },
+          {
+            "ID": 25010300,
+            "Text": "IB-C03W4: NGI 028"
+          },
+          {
+            "ID": 25020000,
+            "Text": "VE-61PSA"
+          },
+          {
+            "ID": 30000000,
+            "Text": "Vvc-703PM"
+          },
+          {
+            "ID": 30000100,
+            "Text": "Vvc-70VPM"
+          },
+          {
+            "ID": 30000200,
+            "Text": "Vvc-706PM"
+          },
+          {
+            "ID": 30010000,
+            "Text": "BML-G3/P05ACT-02"
+          },
+          {
+            "ID": 30010100,
+            "Text": "BML-G3/P04ACT-01"
+          },
+          {
+            "ID": 30020000,
+            "Text": "BML-G2/P03MLT-06"
+          },
+          {
+            "ID": 30020100,
+            "Text": "BML-G1/P20MLT-04"
+          },
+          {
+            "ID": 30020200,
+            "Text": "BML-G2/P05MLT-10"
+          },
+          {
+            "ID": 30030000,
+            "Text": "IB-C03W3: NGI 006"
+          },
+          {
+            "ID": 30040000,
+            "Text": "BML-G1/P07VTC-12"
+          },
+          {
+            "ID": 30040100,
+            "Text": "BML-G1/P03VTC-08"
+          },
+          {
+            "ID": 30040200,
+            "Text": "BML-G1/P01VTC-04"
+          },
+          {
+            "ID": 30050000,
+            "Text": "45-091 JVLN BETA"
+          },
+          {
+            "ID": 30070000,
+            "Text": "WS-5001 SOUP"
+          },
+          {
+            "ID": 30080000,
+            "Text": "BML-G1/P32DUO-03"
+          },
+          {
+            "ID": 30080100,
+            "Text": "BML-G2/P08DUO-03"
+          },
+          {
+            "ID": 30080200,
+            "Text": "BML-G1/P31DUO-02"
+          },
+          {
+            "ID": 30090000,
+            "Text": "BML-G2/P19SPL-12"
+          },
+          {
+            "ID": 30090100,
+            "Text": "BML-G2/P16SPL-08"
+          },
+          {
+            "ID": 30090200,
+            "Text": "BML-G2/P17SPL-16"
+          },
+          {
+            "ID": 30100000,
+            "Text": "SONGBIRDS"
+          },
+          {
+            "ID": 30110000,
+            "Text": "EL-PW-01 TRUENO"
+          },
+          {
+            "ID": 30120000,
+            "Text": "BML-G1/P29CNT"
+          },
+          {
+            "ID": 30130000,
+            "Text": "WR-0999 DELIVERY BOY"
+          },
+          {
+            "ID": 30140100,
+            "Text": "Vvc-700LD"
+          },
+          {
+            "ID": 30150100,
+            "Text": "VP-60LT"
+          },
+          {
+            "ID": 30200000,
+            "Text": "SB-033M MORLEY"
+          },
+          {
+            "ID": 30210000,
+            "Text": "EARSHOT"
+          },
+          {
+            "ID": 30220000,
+            "Text": "VE-60LCA"
+          },
+          {
+            "ID": 30230000,
+            "Text": "FASAN/60E"
+          },
+          {
+            "ID": 30240000,
+            "Text": "KRANICH/60Z"
+          },
+          {
+            "ID": 30250000,
+            "Text": "VP-60LCS"
+          },
+          {
+            "ID": 30250100,
+            "Text": "VE-60LCB"
+          },
+          {
+            "ID": 30260000,
+            "Text": "VP-60LCD"
+          },
+          {
+            "ID": 30270000,
+            "Text": "VE-60SNA"
+          },
+          {
+            "ID": 30300000,
+            "Text": "BO-044 HUXLEY"
+          },
+          {
+            "ID": 30300100,
+            "Text": "45-091 ORBT"
+          },
+          {
+            "ID": 30310000,
+            "Text": "EULE/60D"
+          },
+          {
+            "ID": 30350100,
+            "Text": "IA-C01W3: AURORA"
+          },
+          {
+            "ID": 30400000,
+            "Text": "DF-GA-09 SHAO-WEI"
+          },
+          {
+            "ID": 35000000,
+            "Text": "Vvc-703PM"
+          },
+          {
+            "ID": 35000100,
+            "Text": "Vvc-70VPM"
+          },
+          {
+            "ID": 35000200,
+            "Text": "Vvc-706PM"
+          },
+          {
+            "ID": 35010000,
+            "Text": "BML-G3/P05ACT-02"
+          },
+          {
+            "ID": 35010100,
+            "Text": "BML-G3/P04ACT-01"
+          },
+          {
+            "ID": 35020000,
+            "Text": "BML-G2/P03MLT-06"
+          },
+          {
+            "ID": 35020100,
+            "Text": "BML-G1/P20MLT-04"
+          },
+          {
+            "ID": 35020200,
+            "Text": "BML-G2/P05MLT-10"
+          },
+          {
+            "ID": 35030000,
+            "Text": "IB-C03W3: NGI 006"
+          },
+          {
+            "ID": 35040000,
+            "Text": "BML-G1/P07VTC-12"
+          },
+          {
+            "ID": 35040100,
+            "Text": "BML-G1/P03VTC-08"
+          },
+          {
+            "ID": 35040200,
+            "Text": "BML-G1/P01VTC-04"
+          },
+          {
+            "ID": 35050000,
+            "Text": "45-091 JVLN BETA"
+          },
+          {
+            "ID": 35070000,
+            "Text": "WS-5001 SOUP"
+          },
+          {
+            "ID": 35080000,
+            "Text": "BML-G1/P32DUO-03"
+          },
+          {
+            "ID": 35080100,
+            "Text": "BML-G2/P08DUO-03"
+          },
+          {
+            "ID": 35080200,
+            "Text": "BML-G1/P31DUO-02"
+          },
+          {
+            "ID": 35090000,
+            "Text": "BML-G2/P19SPL-12"
+          },
+          {
+            "ID": 35090100,
+            "Text": "BML-G2/P16SPL-08"
+          },
+          {
+            "ID": 35090200,
+            "Text": "BML-G2/P17SPL-16"
+          },
+          {
+            "ID": 35100000,
+            "Text": "SONGBIRDS"
+          },
+          {
+            "ID": 35110000,
+            "Text": "EL-PW-01 TRUENO"
+          },
+          {
+            "ID": 35120000,
+            "Text": "BML-G1/P29CNT"
+          },
+          {
+            "ID": 35130000,
+            "Text": "WR-0999 DELIVERY BOY"
+          },
+          {
+            "ID": 35140100,
+            "Text": "Vvc-700LD"
+          },
+          {
+            "ID": 35150100,
+            "Text": "VP-60LT"
+          },
+          {
+            "ID": 35200000,
+            "Text": "SB-033M MORLEY"
+          },
+          {
+            "ID": 35210000,
+            "Text": "EARSHOT"
+          },
+          {
+            "ID": 35220000,
+            "Text": "VE-60LCA"
+          },
+          {
+            "ID": 35230000,
+            "Text": "FASAN/60E"
+          },
+          {
+            "ID": 35240000,
+            "Text": "KRANICH/60Z"
+          },
+          {
+            "ID": 35250000,
+            "Text": "VP-60LCS"
+          },
+          {
+            "ID": 35250100,
+            "Text": "VE-60LCB"
+          },
+          {
+            "ID": 35260000,
+            "Text": "VP-60LCD"
+          },
+          {
+            "ID": 35270000,
+            "Text": "VE-60SNA"
+          },
+          {
+            "ID": 35300000,
+            "Text": "BO-044 HUXLEY"
+          },
+          {
+            "ID": 35300100,
+            "Text": "45-091 ORBT"
+          },
+          {
+            "ID": 35310000,
+            "Text": "EULE/60D"
+          },
+          {
+            "ID": 35350100,
+            "Text": "IA-C01W3: AURORA"
+          },
+          {
+            "ID": 35400000,
+            "Text": "DF-GA-09 SHAO-WEI"
+          },
+          {
+            "ID": 75000000,
+            "Text": "ASSAULT ARMOR"
+          },
+          {
+            "ID": 75010000,
+            "Text": "PULSE ARMOR"
+          },
+          {
+            "ID": 75020000,
+            "Text": "PULSE PROTECTION"
+          },
+          {
+            "ID": 75030000,
+            "Text": "TERMINAL ARMOR"
+          }
+        ],
+        "Version": 2,
+        "BigEndian": false,
+        "Unicode": true,
+        "Compression": 1
+      }
+    }
+  ]
+}

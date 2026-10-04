@@ -1,0 +1,66 @@
+{
+  "Name": "Base_Boosters",
+  "FmgWrappers": [
+    {
+      "Name": "\u30D6\u30FC\u30B9\u30BF\u30FC\u540D.fmg",
+      "ID": 38,
+      "Fmg": {
+        "Name": "\u30D6\u30FC\u30B9\u30BF\u30FC\u540D.fmg",
+        "Entries": [
+          {
+            "ID": 60000000,
+            "Text": "BST-G2/P04"
+          },
+          {
+            "ID": 60010000,
+            "Text": "BC-0600 12345"
+          },
+          {
+            "ID": 60020000,
+            "Text": "ALULA/21E"
+          },
+          {
+            "ID": 60030000,
+            "Text": "FLUEGEL/21Z"
+          },
+          {
+            "ID": 60040000,
+            "Text": "BUERZEL/21D"
+          },
+          {
+            "ID": 60050000,
+            "Text": "BST-G2/P06SPD"
+          },
+          {
+            "ID": 60060000,
+            "Text": "BC-0200 GRIDWALKER"
+          },
+          {
+            "ID": 60070000,
+            "Text": "IB-C03B: NGI 001"
+          },
+          {
+            "ID": 60070100,
+            "Text": "IA-C01B: GILLS"
+          },
+          {
+            "ID": 60070200,
+            "Text": "AB-J-137 KIKAKU"
+          },
+          {
+            "ID": 60070300,
+            "Text": "BC-0400 MULE"
+          },
+          {
+            "ID": 60070400,
+            "Text": "BST-G1/P10"
+          }
+        ],
+        "Version": 2,
+        "BigEndian": false,
+        "Unicode": true,
+        "Compression": 1
+      }
+    }
+  ]
+}

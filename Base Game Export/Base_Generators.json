@@ -1,0 +1,74 @@
+{
+  "Name": "Base_Generators",
+  "FmgWrappers": [
+    {
+      "Name": "\u30B8\u30A7\u30CD\u30EC\u30FC\u30BF\u30FC\u540D.fmg",
+      "ID": 35,
+      "Fmg": {
+        "Name": "\u30B8\u30A7\u30CD\u30EC\u30FC\u30BF\u30FC\u540D.fmg",
+        "Entries": [
+          {
+            "ID": 65000000,
+            "Text": "AG-J-098 JOSO"
+          },
+          {
+            "ID": 65010000,
+            "Text": "DF-GN-02 LING-TAI"
+          },
+          {
+            "ID": 65010100,
+            "Text": "DF-GN-06 MING-TANG"
+          },
+          {
+            "ID": 65010200,
+            "Text": "VP-20S"
+          },
+          {
+            "ID": 65010300,
+            "Text": "VP-20C"
+          },
+          {
+            "ID": 65010400,
+            "Text": "AG-E-013 YABA"
+          },
+          {
+            "ID": 65020000,
+            "Text": "VE-20A"
+          },
+          {
+            "ID": 65020100,
+            "Text": "VE-20B"
+          },
+          {
+            "ID": 65030000,
+            "Text": "IA-C01G: AORTA"
+          },
+          {
+            "ID": 65030100,
+            "Text": "IB-C03G: NGI 000"
+          },
+          {
+            "ID": 65040000,
+            "Text": "DF-GN-08 SAN-TAI"
+          },
+          {
+            "ID": 65040100,
+            "Text": "VP-20D"
+          },
+          {
+            "ID": 65040200,
+            "Text": "AG-T-005 HOKUSHI"
+          },
+          {
+            "ID": 65040300,
+            "Text": "VE-20C"
+          }
+        ],
+        "Version": 2,
+        "BigEndian": false,
+        "Unicode": true,
+        "Compression": 1
+      }
+    }
+  ]
+}

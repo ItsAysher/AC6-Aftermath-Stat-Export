@@ -1,0 +1,354 @@
+{
+  "Name": "Base_Armors",
+  "FmgWrappers": [
+    {
+      "Name": "\u9632\u5177\u540D.fmg",
+      "ID": 12,
+      "Fmg": {
+        "Name": "\u9632\u5177\u540D.fmg",
+        "Entries": [
+          {
+            "ID": 50000000,
+            "Text": "HD-011 MELANDER"
+          },
+          {
+            "ID": 50000100,
+            "Text": "HS-5000 APPETIZER"
+          },
+          {
+            "ID": 50000200,
+            "Text": "HD-033M VERRILL"
+          },
+          {
+            "ID": 50000300,
+            "Text": "HD-012 MELANDER C3"
+          },
+          {
+            "ID": 50010000,
+            "Text": "DF-HD-08 TIAN-QIANG"
+          },
+          {
+            "ID": 50020000,
+            "Text": "NACHTREIHER/44E"
+          },
+          {
+            "ID": 50020100,
+            "Text": "KASUAR/44Z"
+          },
+          {
+            "ID": 50030000,
+            "Text": "VP-44S"
+          },
+          {
+            "ID": 50030100,
+            "Text": "VP-44D"
+          },
+          {
+            "ID": 50040000,
+            "Text": "VE-44A"
+          },
+          {
+            "ID": 50040100,
+            "Text": "VE-44B"
+          },
+          {
+            "ID": 50050000,
+            "Text": "20-081 MIND ALPHA"
+          },
+          {
+            "ID": 50050100,
+            "Text": "20-082 MIND BETA"
+          },
+          {
+            "ID": 50060000,
+            "Text": "EL-TH-10 FIRMEZA"
+          },
+          {
+            "ID": 50070200,
+            "Text": "AH-J-124 BASHO"
+          },
+          {
+            "ID": 50070300,
+            "Text": "HC-3000 WRECKER"
+          },
+          {
+            "ID": 50070400,
+            "Text": "HC-2000 FINDER EYE"
+          },
+          {
+            "ID": 50070600,
+            "Text": "HC-2000/BC SHADE EYE"
+          },
+          {
+            "ID": 50080000,
+            "Text": "IB-C03H: HAL 826"
+          },
+          {
+            "ID": 50080100,
+            "Text": "IA-C01H: EPHEMERA"
+          },
+          {
+            "ID": 50080200,
+            "Text": "EL-PH-00 ALBA"
+          },
+          {
+            "ID": 50080300,
+            "Text": "LAMMERGEIER/44F"
+          },
+          {
+            "ID": 50900000,
+            "Text": "AH-J-124/RC JAILBREAK"
+          },
+          {
+            "ID": 51000000,
+            "Text": "BD-011 MELANDER"
+          },
+          {
+            "ID": 51000100,
+            "Text": "CS-5000 MAIN DISH"
+          },
+          {
+            "ID": 51000300,
+            "Text": "BD-012 MELANDER C3"
+          },
+          {
+            "ID": 51010000,
+            "Text": "DF-BD-08 TIAN-QIANG"
+          },
+          {
+            "ID": 51020000,
+            "Text": "NACHTREIHER/40E"
+          },
+          {
+            "ID": 51030000,
+            "Text": "VP-40S"
+          },
+          {
+            "ID": 51040000,
+            "Text": "VE-40A"
+          },
+          {
+            "ID": 51050000,
+            "Text": "07-061 MIND ALPHA"
+          },
+          {
+            "ID": 51060000,
+            "Text": "EL-TC-10 FIRMEZA"
+          },
+          {
+            "ID": 51070200,
+            "Text": "AC-J-120 BASHO"
+          },
+          {
+            "ID": 51070300,
+            "Text": "CC-3000 WRECKER"
+          },
+          {
+            "ID": 51070400,
+            "Text": "CC-2000 ORBITER"
+          },
+          {
+            "ID": 51080000,
+            "Text": "IB-C03C: HAL 826"
+          },
+          {
+            "ID": 51080100,
+            "Text": "IA-C01C: EPHEMERA"
+          },
+          {
+            "ID": 51080200,
+            "Text": "EL-PC-00 ALBA"
+          },
+          {
+            "ID": 51080300,
+            "Text": "LAMMERGEIER/40F"
+          },
+          {
+            "ID": 51900000,
+            "Text": "AC-J-120/RC JAILBREAK"
+          },
+          {
+            "ID": 52000000,
+            "Text": "AR-011 MELANDER"
+          },
+          {
+            "ID": 52000100,
+            "Text": "AS-5000 SALAD"
+          },
+          {
+            "ID": 52000300,
+            "Text": "AR-012 MELANDER C3"
+          },
+          {
+            "ID": 52010000,
+            "Text": "DF-AR-08 TIAN-QIANG"
+          },
+          {
+            "ID": 52010100,
+            "Text": "DF-AR-09 TIAN-LAO"
+          },
+          {
+            "ID": 52020000,
+            "Text": "NACHTREIHER/46E"
+          },
+          {
+            "ID": 52030000,
+            "Text": "VP-46S"
+          },
+          {
+            "ID": 52030100,
+            "Text": "VP-46D"
+          },
+          {
+            "ID": 52040000,
+            "Text": "VE-46A"
+          },
+          {
+            "ID": 52050000,
+            "Text": "04-101 MIND ALPHA"
+          },
+          {
+            "ID": 52060000,
+            "Text": "EL-TA-10 FIRMEZA"
+          },
+          {
+            "ID": 52070200,
+            "Text": "AA-J-123 BASHO"
+          },
+          {
+            "ID": 52070300,
+            "Text": "AC-3000 WRECKER"
+          },
+          {
+            "ID": 52070400,
+            "Text": "AC-2000 TOOL ARM"
+          },
+          {
+            "ID": 52080000,
+            "Text": "IB-C03A: HAL 826"
+          },
+          {
+            "ID": 52080100,
+            "Text": "IA-C01A: EPHEMERA"
+          },
+          {
+            "ID": 52080200,
+            "Text": "EL-PA-00 ALBA"
+          },
+          {
+            "ID": 52080300,
+            "Text": "LAMMERGEIER/46F"
+          },
+          {
+            "ID": 52900000,
+            "Text": "AA-J-123/RC JAILBREAK"
+          },
+          {
+            "ID": 53000000,
+            "Text": "LG-011 MELANDER"
+          },
+          {
+            "ID": 53000100,
+            "Text": "2S-5000 DESSERT"
+          },
+          {
+            "ID": 53000300,
+            "Text": "LG-012 MELANDER C3"
+          },
+          {
+            "ID": 53010000,
+            "Text": "DF-LG-08 TIAN-QIANG"
+          },
+          {
+            "ID": 53020000,
+            "Text": "NACHTREIHER/42E"
+          },
+          {
+            "ID": 53030000,
+            "Text": "VP-422"
+          },
+          {
+            "ID": 53040000,
+            "Text": "VE-42A"
+          },
+          {
+            "ID": 53050000,
+            "Text": "06-041 MIND ALPHA"
+          },
+          {
+            "ID": 53060000,
+            "Text": "EL-TL-10 FIRMEZA"
+          },
+          {
+            "ID": 53070200,
+            "Text": "AL-J-121 BASHO"
+          },
+          {
+            "ID": 53070300,
+            "Text": "2C-3000 WRECKER"
+          },
+          {
+            "ID": 53070400,
+            "Text": "2C-2000 CRAWLER"
+          },
+          {
+            "ID": 53080000,
+            "Text": "IB-C03L: HAL 826"
+          },
+          {
+            "ID": 53080100,
+            "Text": "IA-C01L: EPHEMERA"
+          },
+          {
+            "ID": 53080200,
+            "Text": "EL-PL-00 ALBA"
+          },
+          {
+            "ID": 53120000,
+            "Text": "KASUAR/42Z"
+          },
+          {
+            "ID": 53150000,
+            "Text": "06-042 MIND BETA"
+          },
+          {
+            "ID": 53170400,
+            "Text": "RC-2000 SPRING CHICKEN"
+          },
+          {
+            "ID": 53200000,
+            "Text": "LG-033M VERRILL"
+          },
+          {
+            "ID": 53230000,
+            "Text": "VP-424"
+          },
+          {
+            "ID": 53280300,
+            "Text": "LAMMERGEIER/42F"
+          },
+          {
+            "ID": 53300000,
+            "Text": "LG-022T BORNEMISSZA"
+          },
+          {
+            "ID": 53340000,
+            "Text": "VE-42B"
+          },
+          {
+            "ID": 53360000,
+            "Text": "EL-TL-11 FORTALEZA"
+          },
+          {
+            "ID": 53900000,
+            "Text": "AL-J-121/RC JAILBREAK"
+          }
+        ],
+        "Version": 2,
+        "BigEndian": false,
+        "Unicode": true,
+        "Compression": 1
+      }
+    }
+  ]
+}

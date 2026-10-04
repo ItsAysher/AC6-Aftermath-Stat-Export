@@ -1,0 +1,102 @@
+{
+  "Name": "item-38",
+  "FmgWrappers": [
+    {
+      "Name": "\u30D6\u30FC\u30B9\u30BF\u30FC\u540D.fmg",
+      "ID": 38,
+      "Fmg": {
+        "Name": "\u30D6\u30FC\u30B9\u30BF\u30FC\u540D.fmg",
+        "Entries": [
+          {
+            "ID": 60000000,
+            "Text": "BST-G2/P04"
+          },
+          {
+            "ID": 60000001,
+            "Text": "T-MOD_7 APRUM"
+          },
+          {
+            "ID": 60000002,
+            "Text": "T-MOD_4 CAPRAE"
+          },
+          {
+            "ID": 60000003,
+            "Text": "T-MOD_1 EQUUS"
+          },
+          {
+            "ID": 60000004,
+            "Text": "T-MOD_2 VACCA"
+          },
+          {
+            "ID": 60000005,
+            "Text": "T-MOD_6 BOBUS"
+          },
+          {
+            "ID": 60000006,
+            "Text": "BST-G3/P09QBT"
+          },
+          {
+            "ID": 60010000,
+            "Text": "BC-0600 12345"
+          },
+          {
+            "ID": 60020000,
+            "Text": "ALULA/21E"
+          },
+          {
+            "ID": 60021000,
+            "Text": "ALULA/21E/RC"
+          },
+          {
+            "ID": 60030000,
+            "Text": "FLUEGEL/21Z"
+          },
+          {
+            "ID": 60040000,
+            "Text": "BUERZEL/21D"
+          },
+          {
+            "ID": 60050000,
+            "Text": "BST-G2/P06SPD"
+          },
+          {
+            "ID": 60060000,
+            "Text": "BC-0200 GRIDWALKER"
+          },
+          {
+            "ID": 60070000,
+            "Text": "IB-C03B: NGI 001"
+          },
+          {
+            "ID": 60070100,
+            "Text": "IA-C01B: GILLS"
+          },
+          {
+            "ID": 60070200,
+            "Text": "AB-J-137 KIKAKU"
+          },
+          {
+            "ID": 60070300,
+            "Text": "BC-0400 MULE"
+          },
+          {
+            "ID": 60070400,
+            "Text": "BST-G1/P10"
+          },
+          {
+            "ID": 60070500,
+            "Text": "IX-02 OLIVES"
+          },
+          {
+            "ID": 60900001,
+            "Text": "AB-J-137 KIKAKU/RC"
+          }
+        ],
+        "Version": 2,
+        "BigEndian": false,
+        "Unicode": true,
+        "Compression": 1
+      }
+    }
+  ]
+}

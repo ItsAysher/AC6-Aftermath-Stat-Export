@@ -1,0 +1,82 @@
+{
+  "Name": "item-41",
+  "FmgWrappers": [
+    {
+      "Name": "FCS\u540D.fmg",
+      "ID": 41,
+      "Fmg": {
+        "Name": "FCS\u540D.fmg",
+        "Entries": [
+          {
+            "ID": 70000000,
+            "Text": "FCS-G1/P01"
+          },
+          {
+            "ID": 70010000,
+            "Text": "FCS-G2/P05"
+          },
+          {
+            "ID": 70010100,
+            "Text": "FCS-G2/P10SLT"
+          },
+          {
+            "ID": 70010200,
+            "Text": "FCS-G2/P12SML"
+          },
+          {
+            "ID": 70010300,
+            "Text": "FC-006 ABBOT"
+          },
+          {
+            "ID": 70010400,
+            "Text": "FC-008 TALBOT"
+          },
+          {
+            "ID": 70020000,
+            "Text": "VE-21A"
+          },
+          {
+            "ID": 70020100,
+            "Text": "VE-21B"
+          },
+          {
+            "ID": 70020200,
+            "Text": "IX-08 CAPERNAUM"
+          },
+          {
+            "ID": 70020300,
+            "Text": "IX-09 GALILEE"
+          },
+          {
+            "ID": 70020400,
+            "Text": "EL-VF-04 CERCA"
+          },
+          {
+            "ID": 70020500,
+            "Text": "EL-DF-05 AGACHADIZA"
+          },
+          {
+            "ID": 70030000,
+            "Text": "IA-C01F: OCELLUS"
+          },
+          {
+            "ID": 70030100,
+            "Text": "IB-C03F: WLT 001"
+          },
+          {
+            "ID": 70030101,
+            "Text": "IB-C03F: WLT 001/RC"
+          },
+          {
+            "ID": 70030200,
+            "Text": "[ERROR] F-MOD_3 AGRICOLA"
+          }
+        ],
+        "Version": 2,
+        "BigEndian": false,
+        "Unicode": true,
+        "Compression": 1
+      }
+    }
+  ]
+}

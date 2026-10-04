@@ -1,0 +1,58 @@
+{
+  "Name": "Base_FCS",
+  "FmgWrappers": [
+    {
+      "Name": "FCS\u540D.fmg",
+      "ID": 41,
+      "Fmg": {
+        "Name": "FCS\u540D.fmg",
+        "Entries": [
+          {
+            "ID": 70000000,
+            "Text": "FCS-G1/P01"
+          },
+          {
+            "ID": 70010000,
+            "Text": "FCS-G2/P05"
+          },
+          {
+            "ID": 70010100,
+            "Text": "FCS-G2/P10SLT"
+          },
+          {
+            "ID": 70010200,
+            "Text": "FCS-G2/P12SML"
+          },
+          {
+            "ID": 70010300,
+            "Text": "FC-006 ABBOT"
+          },
+          {
+            "ID": 70010400,
+            "Text": "FC-008 TALBOT"
+          },
+          {
+            "ID": 70020000,
+            "Text": "VE-21A"
+          },
+          {
+            "ID": 70020100,
+            "Text": "VE-21B"
+          },
+          {
+            "ID": 70030000,
+            "Text": "IA-C01F: OCELLUS"
+          },
+          {
+            "ID": 70030100,
+            "Text": "IB-C03F: WLT 001"
+          }
+        ],
+        "Version": 2,
+        "BigEndian": false,
+        "Unicode": true,
+        "Compression": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,858 @@
+{
+  "Name": "item-12",
+  "FmgWrappers": [
+    {
+      "Name": "\u9632\u5177\u540D.fmg",
+      "ID": 12,
+      "Fmg": {
+        "Name": "\u9632\u5177\u540D.fmg",
+        "Entries": [
+          {
+            "ID": 50000000,
+            "Text": "HD-011 MELANDER"
+          },
+          {
+            "ID": 50000100,
+            "Text": "HS-5000 APPETIZER"
+          },
+          {
+            "ID": 50000200,
+            "Text": "HD-033M VERRILL"
+          },
+          {
+            "ID": 50000300,
+            "Text": "HD-012 MELANDER C3"
+          },
+          {
+            "ID": 50000400,
+            "Text": "VP-44S-C CONTEMPT"
+          },
+          {
+            "ID": 50000500,
+            "Text": "VP-44S-C PILLAGER"
+          },
+          {
+            "ID": 50000600,
+            "Text": "VP-44C"
+          },
+          {
+            "ID": 50000700,
+            "Text": "(NOTHING)"
+          },
+          {
+            "ID": 50000800,
+            "Text": "ACH-G4/P03SAR"
+          },
+          {
+            "ID": 50000900,
+            "Text": "20-081-C DEAR BELOVED"
+          },
+          {
+            "ID": 50002500,
+            "Text": "AAP21/H: WARDEN"
+          },
+          {
+            "ID": 50010000,
+            "Text": "DF-HD-08 TIAN-QIANG"
+          },
+          {
+            "ID": 50020000,
+            "Text": "NACHTREIHER/44E"
+          },
+          {
+            "ID": 50020100,
+            "Text": "KASUAR/44Z"
+          },
+          {
+            "ID": 50020200,
+            "Text": "EISVOGEL/44K"
+          },
+          {
+            "ID": 50020300,
+            "Text": "CRAZ-OUT-11 SERENITY"
+          },
+          {
+            "ID": 50030000,
+            "Text": "VP-44S"
+          },
+          {
+            "ID": 50030100,
+            "Text": "VP-44D"
+          },
+          {
+            "ID": 50030200,
+            "Text": "AAP07/H: BALTEUS"
+          },
+          {
+            "ID": 50040000,
+            "Text": "VE-44A"
+          },
+          {
+            "ID": 50040100,
+            "Text": "VE-44B"
+          },
+          {
+            "ID": 50050000,
+            "Text": "20-081 MIND ALPHA"
+          },
+          {
+            "ID": 50050100,
+            "Text": "20-082 MIND BETA"
+          },
+          {
+            "ID": 50054000,
+            "Text": "H-MOD_4 CAESAR"
+          },
+          {
+            "ID": 50060000,
+            "Text": "EL-TH-10 FIRMEZA"
+          },
+          {
+            "ID": 50060900,
+            "Text": "EL-TH-14 VALENTIA"
+          },
+          {
+            "ID": 50070200,
+            "Text": "AH-J-124 BASHO"
+          },
+          {
+            "ID": 50070300,
+            "Text": "HC-3000 WRECKER"
+          },
+          {
+            "ID": 50070400,
+            "Text": "HC-2000 FINDER EYE"
+          },
+          {
+            "ID": 50070500,
+            "Text": "HR-1000 RAVAGER"
+          },
+          {
+            "ID": 50070600,
+            "Text": "HC-2000/BC SHADE EYE"
+          },
+          {
+            "ID": 50070700,
+            "Text": "HR-1000/RC RAVAGER"
+          },
+          {
+            "ID": 50070800,
+            "Text": "EL-LH-02 OSCURO"
+          },
+          {
+            "ID": 50074100,
+            "Text": "MAD-E-N-66-DO HYSTERIC"
+          },
+          {
+            "ID": 50074200,
+            "Text": "MAD-GO-00-N-ER LUDICROUS"
+          },
+          {
+            "ID": 50080000,
+            "Text": "IB-C03H: HAL 826"
+          },
+          {
+            "ID": 50080100,
+            "Text": "IA-C01H: EPHEMERA"
+          },
+          {
+            "ID": 50080200,
+            "Text": "EL-PH-00 ALBA"
+          },
+          {
+            "ID": 50080300,
+            "Text": "LAMMERGEIER/44F"
+          },
+          {
+            "ID": 50080400,
+            "Text": "MAD-FL-34-G-HD NIGHTMARISH"
+          },
+          {
+            "ID": 50080500,
+            "Text": "FV1M01 BASILISK"
+          },
+          {
+            "ID": 50080600,
+            "Text": "HX-31 JOEL"
+          },
+          {
+            "ID": 50080700,
+            "Text": "H-MOD_14 LANISTA"
+          },
+          {
+            "ID": 50080800,
+            "Text": "H-MOD_5-8 DOMINUS"
+          },
+          {
+            "ID": 50081400,
+            "Text": "H-MOD_1 [0] IANITOR"
+          },
+          {
+            "ID": 50082700,
+            "Text": "ABENDGANS/44T"
+          },
+          {
+            "ID": 50888800,
+            "Text": "FV1M79 QUETZALCOATL"
+          },
+          {
+            "ID": 50888900,
+            "Text": "EL-DH-04 AVISPA"
+          },
+          {
+            "ID": 50889000,
+            "Text": "HX-24 ISAIAH"
+          },
+          {
+            "ID": 50889100,
+            "Text": "HX-26 BARNABAS"
+          },
+          {
+            "ID": 50889200,
+            "Text": "HD-ZWEIHANDER"
+          },
+          {
+            "ID": 50889300,
+            "Text": "H-MOD_11 IMPERATOR"
+          },
+          {
+            "ID": 50889400,
+            "Text": "AAP03/H: ENFORCER"
+          },
+          {
+            "ID": 50889500,
+            "Text": "HX-29 NOAH"
+          },
+          {
+            "ID": 50889600,
+            "Text": "H-MOD_18 PRAETOR"
+          },
+          {
+            "ID": 50900000,
+            "Text": "AH-J-124/RC JAILBREAK"
+          },
+          {
+            "ID": 51000000,
+            "Text": "BD-011 MELANDER"
+          },
+          {
+            "ID": 51000100,
+            "Text": "CS-5000 MAIN DISH"
+          },
+          {
+            "ID": 51000300,
+            "Text": "BD-012 MELANDER C3"
+          },
+          {
+            "ID": 51000800,
+            "Text": "ACB-G4/P03SAR"
+          },
+          {
+            "ID": 51002500,
+            "Text": "AAP21/B: WARDEN"
+          },
+          {
+            "ID": 51010000,
+            "Text": "DF-BD-08 TIAN-QIANG"
+          },
+          {
+            "ID": 51020000,
+            "Text": "NACHTREIHER/40E"
+          },
+          {
+            "ID": 51020100,
+            "Text": "EISVOGEL/40K"
+          },
+          {
+            "ID": 51020300,
+            "Text": "CRAZ-OUT-11 SERENITY"
+          },
+          {
+            "ID": 51030000,
+            "Text": "VP-40S"
+          },
+          {
+            "ID": 51030200,
+            "Text": "AAP07/B: BALTEUS"
+          },
+          {
+            "ID": 51040000,
+            "Text": "VE-40A"
+          },
+          {
+            "ID": 51050000,
+            "Text": "07-061 MIND ALPHA"
+          },
+          {
+            "ID": 51050200,
+            "Text": "CC-7000 BIG BITE"
+          },
+          {
+            "ID": 51050300,
+            "Text": "07-061-C 300"
+          },
+          {
+            "ID": 51050400,
+            "Text": "MAD-FL-34-G-BD NIGHTMARISH"
+          },
+          {
+            "ID": 51050800,
+            "Text": "MAD-FL-34-G-BD DREAMER"
+          },
+          {
+            "ID": 51050900,
+            "Text": "CRAZ-OUT-08 HOMESTEAD"
+          },
+          {
+            "ID": 51051400,
+            "Text": "FV2M01 BASILISK"
+          },
+          {
+            "ID": 51052400,
+            "Text": "MAD-P-I-11-GY DUMB"
+          },
+          {
+            "ID": 51052500,
+            "Text": "B-MOD_14 LANISTA"
+          },
+          {
+            "ID": 51052600,
+            "Text": "B-MOD_2 [0] IANITOR"
+          },
+          {
+            "ID": 51052700,
+            "Text": "BI-22: CU-A1"
+          },
+          {
+            "ID": 51052800,
+            "Text": "EL-DB-04 AVISPA"
+          },
+          {
+            "ID": 51052900,
+            "Text": "B-MOD_5-8 DOMINUS"
+          },
+          {
+            "ID": 51053300,
+            "Text": "BX-24 ISAIAH"
+          },
+          {
+            "ID": 51053400,
+            "Text": "BX-26 BARNABAS"
+          },
+          {
+            "ID": 51053500,
+            "Text": "B-MOD_11 IMPERATOR"
+          },
+          {
+            "ID": 51053600,
+            "Text": "AAP03/B: ENFORCER"
+          },
+          {
+            "ID": 51053700,
+            "Text": "BX-29 NOAH"
+          },
+          {
+            "ID": 51053800,
+            "Text": "B-MOD_18 PRAETOR"
+          },
+          {
+            "ID": 51053900,
+            "Text": "CX-33 EZEKIEL"
+          },
+          {
+            "ID": 51054000,
+            "Text": "B-MOD_4 CAESAR"
+          },
+          {
+            "ID": 51060000,
+            "Text": "EL-TC-10 FIRMEZA"
+          },
+          {
+            "ID": 51060900,
+            "Text": "EL-TC-14 VALENTIA"
+          },
+          {
+            "ID": 51070200,
+            "Text": "AC-J-120 BASHO"
+          },
+          {
+            "ID": 51070300,
+            "Text": "CC-3000 WRECKER"
+          },
+          {
+            "ID": 51070400,
+            "Text": "CC-2000 ORBITER"
+          },
+          {
+            "ID": 51070500,
+            "Text": "CR-1000 RAVAGER"
+          },
+          {
+            "ID": 51070700,
+            "Text": "CR-1000/RC RAVAGER"
+          },
+          {
+            "ID": 51074100,
+            "Text": "MAD-E-N-66-DO HYSTERIC"
+          },
+          {
+            "ID": 51080000,
+            "Text": "IB-C03C: HAL 826"
+          },
+          {
+            "ID": 51080100,
+            "Text": "IA-C01C: EPHEMERA"
+          },
+          {
+            "ID": 51080200,
+            "Text": "EL-PC-00 ALBA"
+          },
+          {
+            "ID": 51080300,
+            "Text": "LAMMERGEIER/40F"
+          },
+          {
+            "ID": 51082700,
+            "Text": "ABENDGANS/40T"
+          },
+          {
+            "ID": 51888800,
+            "Text": "FV2M79 QUETZALCOATL"
+          },
+          {
+            "ID": 51900000,
+            "Text": "AC-J-120/RC JAILBREAK"
+          },
+          {
+            "ID": 52000000,
+            "Text": "AR-011 MELANDER"
+          },
+          {
+            "ID": 52000100,
+            "Text": "AS-5000 SALAD"
+          },
+          {
+            "ID": 52000300,
+            "Text": "AR-012 MELANDER C3"
+          },
+          {
+            "ID": 52000800,
+            "Text": "ACA-G4/P03SAR"
+          },
+          {
+            "ID": 52002500,
+            "Text": "AAP21/A: WARDEN"
+          },
+          {
+            "ID": 52010000,
+            "Text": "DF-AR-08 TIAN-QIANG"
+          },
+          {
+            "ID": 52010100,
+            "Text": "DF-AR-09 TIAN-LAO"
+          },
+          {
+            "ID": 52020000,
+            "Text": "NACHTREIHER/46E"
+          },
+          {
+            "ID": 52020100,
+            "Text": "EISVOGEL/46K"
+          },
+          {
+            "ID": 52020300,
+            "Text": "CRAZ-OUT-11 SERENITY"
+          },
+          {
+            "ID": 52030000,
+            "Text": "VP-46S"
+          },
+          {
+            "ID": 52030100,
+            "Text": "VP-46D"
+          },
+          {
+            "ID": 52030200,
+            "Text": "AAP07/A: BALTEUS"
+          },
+          {
+            "ID": 52040000,
+            "Text": "VE-46A"
+          },
+          {
+            "ID": 52050000,
+            "Text": "04-101 MIND ALPHA"
+          },
+          {
+            "ID": 52054000,
+            "Text": "A-MOD_4 CAESAR"
+          },
+          {
+            "ID": 52054100,
+            "Text": "A-MOD_4B JET CAESAR"
+          },
+          {
+            "ID": 52060000,
+            "Text": "EL-TA-10 FIRMEZA"
+          },
+          {
+            "ID": 52060900,
+            "Text": "EL-TA-14 VALENTIA"
+          },
+          {
+            "ID": 52070200,
+            "Text": "AA-J-123 BASHO"
+          },
+          {
+            "ID": 52070300,
+            "Text": "AC-3000 WRECKER"
+          },
+          {
+            "ID": 52070400,
+            "Text": "AC-2000 TOOL ARM"
+          },
+          {
+            "ID": 52070500,
+            "Text": "AR-1000 RAVAGER"
+          },
+          {
+            "ID": 52070700,
+            "Text": "AR-1000/RC RAVAGER"
+          },
+          {
+            "ID": 52070800,
+            "Text": "AR-1000/RC RAVAGER"
+          },
+          {
+            "ID": 52074100,
+            "Text": "MAD-E-N-66-DO HYSTERIC"
+          },
+          {
+            "ID": 52080000,
+            "Text": "IB-C03A: HAL 826"
+          },
+          {
+            "ID": 52080100,
+            "Text": "IA-C01A: EPHEMERA"
+          },
+          {
+            "ID": 52080200,
+            "Text": "EL-PA-00 ALBA"
+          },
+          {
+            "ID": 52080300,
+            "Text": "LAMMERGEIER/46F"
+          },
+          {
+            "ID": 52080500,
+            "Text": "FV3M01 BASILISK"
+          },
+          {
+            "ID": 52080600,
+            "Text": "MAD-FL-34-G-AM NIGHTMARISH"
+          },
+          {
+            "ID": 52080700,
+            "Text": "A-MOD_14 LANISTA"
+          },
+          {
+            "ID": 52080800,
+            "Text": "A-MOD_3 [0] IANITOR"
+          },
+          {
+            "ID": 52080900,
+            "Text": "A-MOD_3 [1] IANITOR"
+          },
+          {
+            "ID": 52081000,
+            "Text": "EL-DA-04 AVISPA"
+          },
+          {
+            "ID": 52081100,
+            "Text": "AX-24 ISAIAH"
+          },
+          {
+            "ID": 52081200,
+            "Text": "AX-26 BARNABAS"
+          },
+          {
+            "ID": 52081300,
+            "Text": "MAD-FL-34-G-AM DREAMER"
+          },
+          {
+            "ID": 52081400,
+            "Text": "A-MOD_5-8 DOMINUS"
+          },
+          {
+            "ID": 52082700,
+            "Text": "ABENDGANS/46T"
+          },
+          {
+            "ID": 52181000,
+            "Text": "A-MOD_11 IMPERATOR"
+          },
+          {
+            "ID": 52181100,
+            "Text": "AAP03/A: ENFORCER"
+          },
+          {
+            "ID": 52181200,
+            "Text": "AX-29 NOAH"
+          },
+          {
+            "ID": 52181300,
+            "Text": "A-MOD_18 PRAETOR"
+          },
+          {
+            "ID": 52888800,
+            "Text": "FV3M79 QUETZALCOATL"
+          },
+          {
+            "ID": 52900000,
+            "Text": "AA-J-123/RC JAILBREAK"
+          },
+          {
+            "ID": 53000000,
+            "Text": "LG-011 MELANDER"
+          },
+          {
+            "ID": 53000100,
+            "Text": "2S-5000 DESSERT"
+          },
+          {
+            "ID": 53000300,
+            "Text": "LG-012 MELANDER C3"
+          },
+          {
+            "ID": 53000800,
+            "Text": "ACL-G4/P03SAR"
+          },
+          {
+            "ID": 53002500,
+            "Text": "AAP21/L: WARDEN"
+          },
+          {
+            "ID": 53010000,
+            "Text": "DF-LG-08 TIAN-QIANG"
+          },
+          {
+            "ID": 53020000,
+            "Text": "NACHTREIHER/42E"
+          },
+          {
+            "ID": 53020300,
+            "Text": "CRAZ-OUT-11 SERENITY"
+          },
+          {
+            "ID": 53030000,
+            "Text": "VP-422"
+          },
+          {
+            "ID": 53030200,
+            "Text": "AAP07/L: BALTEUS"
+          },
+          {
+            "ID": 53040000,
+            "Text": "VE-42A"
+          },
+          {
+            "ID": 53050000,
+            "Text": "06-041 MIND ALPHA"
+          },
+          {
+            "ID": 53054000,
+            "Text": "L-MOD_4 CAESAR"
+          },
+          {
+            "ID": 53060000,
+            "Text": "EL-TL-10 FIRMEZA"
+          },
+          {
+            "ID": 53060900,
+            "Text": "EL-TL-14 VALENTIA"
+          },
+          {
+            "ID": 53070200,
+            "Text": "AL-J-121 BASHO"
+          },
+          {
+            "ID": 53070300,
+            "Text": "2C-3000 WRECKER"
+          },
+          {
+            "ID": 53070400,
+            "Text": "2C-2000 CRAWLER"
+          },
+          {
+            "ID": 53070500,
+            "Text": "2R-1000 RAVAGER"
+          },
+          {
+            "ID": 53070700,
+            "Text": "2R-1000/RC RAVAGER"
+          },
+          {
+            "ID": 53074100,
+            "Text": "MAD-E-N-66-DO HYSTERIC"
+          },
+          {
+            "ID": 53080000,
+            "Text": "IB-C03L: HAL 826"
+          },
+          {
+            "ID": 53080100,
+            "Text": "IA-C01L: EPHEMERA"
+          },
+          {
+            "ID": 53080200,
+            "Text": "EL-PL-00 ALBA"
+          },
+          {
+            "ID": 53080300,
+            "Text": "MAD-FL-34-G-LG NIGHTMARISH"
+          },
+          {
+            "ID": 53080400,
+            "Text": "L-MOD_14 LANISTA"
+          },
+          {
+            "ID": 53080500,
+            "Text": "LX-24 ISAIAH"
+          },
+          {
+            "ID": 53080600,
+            "Text": "LX-26 BARNABAS"
+          },
+          {
+            "ID": 53080700,
+            "Text": "AAP03/L: ENFORCER"
+          },
+          {
+            "ID": 53080800,
+            "Text": "L-MOD_4 [0] IANITOR"
+          },
+          {
+            "ID": 53080900,
+            "Text": "L-MOD_18 PRAETOR"
+          },
+          {
+            "ID": 53081000,
+            "Text": "MAD-FL-34-G-LG DREAMER"
+          },
+          {
+            "ID": 53081100,
+            "Text": "L-MOD_5-8 DOMINUS"
+          },
+          {
+            "ID": 53082700,
+            "Text": "ABENDGANS/42T"
+          },
+          {
+            "ID": 53120000,
+            "Text": "KASUAR/42Z"
+          },
+          {
+            "ID": 53120100,
+            "Text": "EISVOGEL/42K"
+          },
+          {
+            "ID": 53150000,
+            "Text": "06-042 MIND BETA"
+          },
+          {
+            "ID": 53150100,
+            "Text": "AAS03L: EKDROMOI"
+          },
+          {
+            "ID": 53150200,
+            "Text": "EL-DH-04 AVISPA"
+          },
+          {
+            "ID": 53170400,
+            "Text": "RC-2000 SPRING CHICKEN"
+          },
+          {
+            "ID": 53200000,
+            "Text": "LG-033M VERRILL"
+          },
+          {
+            "ID": 53204400,
+            "Text": "FV4M01 BASILISK"
+          },
+          {
+            "ID": 53230000,
+            "Text": "VP-424"
+          },
+          {
+            "ID": 53280300,
+            "Text": "LAMMERGEIER/42F"
+          },
+          {
+            "ID": 53280400,
+            "Text": "L-MOD_11 IMPERATOR"
+          },
+          {
+            "ID": 53300000,
+            "Text": "LG-022T BORNEMISSZA"
+          },
+          {
+            "ID": 53300100,
+            "Text": "MB-021 CLEMENS"
+          },
+          {
+            "ID": 53300200,
+            "Text": "VE-48A"
+          },
+          {
+            "ID": 53300300,
+            "Text": "MX-28 SILAS"
+          },
+          {
+            "ID": 53340000,
+            "Text": "VE-42B"
+          },
+          {
+            "ID": 53340100,
+            "Text": "LX-29 NOAH"
+          },
+          {
+            "ID": 53340800,
+            "Text": "L-MOD_4 [1] IANITOR"
+          },
+          {
+            "ID": 53360000,
+            "Text": "EL-TL-11 FORTALEZA"
+          },
+          {
+            "ID": 53888800,
+            "Text": "FV4M79 QUETZALCOATL"
+          },
+          {
+            "ID": 53900000,
+            "Text": "AL-J-121/RC JAILBREAK"
+          },
+          {
+            "ID": 99900000,
+            "Text": "HC-2000 MANGLED EYE"
+          },
+          {
+            "ID": 99900100,
+            "Text": "CC-2000 MANGLED CORE"
+          },
+          {
+            "ID": 99900200,
+            "Text": "AC-2000 MANGLED ARM"
+          },
+          {
+            "ID": 99900300,
+            "Text": "2C-2000 MANGLED CRAWLERS"
+          }
+        ],
+        "Version": 2,
+        "BigEndian": false,
+        "Unicode": true,
+        "Compression": 1
+      }
+    }
+  ]
+}
